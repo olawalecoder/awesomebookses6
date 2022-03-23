@@ -1,7 +1,7 @@
 # My Awesome Book App (ES6)
 This is book app that allows you add books and remove books from list. Enjoy!
 
-![screenshot](./AwesomeBookAppwithES6.png)
+![screenshot](./awesomebookses6.png)
 ## Built With
 
 - HTML 
@@ -12,7 +12,7 @@ This is book app that allows you add books and remove books from list. Enjoy!
 
 ## DEMO
 
-https://olawalecoder.github.io/Awesome-Book-App-Es6/
+https://olawalecoder.github.io/awesomebookses6/
 
 ## Getting Started
 
@@ -20,10 +20,10 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-clone repo: `git clone git@github.com:olawalecoder/Awesome-Book-App-Es6-.git`
+clone repo: `git clone git@github.com:olawalecoder/awesomebookses6.git`
 
 then
-`cd Awesome-Book-App-Es6`
+`cd awesomebookses6`
 
 ### Install
 
