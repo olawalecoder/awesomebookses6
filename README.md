@@ -12,7 +12,7 @@ This is book app that allows you add books and remove books from list. Enjoy!
 
 ## DEMO
 
-https://olawalecoder.github.io/awesomebookses6/
+[live link](https://olawalecoder.github.io/awesomebookses6/)
 
 ## Getting Started
 
@@ -27,7 +27,9 @@ then
 
 ### Install
 
-run `npm install` to install dependencies
+- run `npm install` to install dependencies
+
+- Open it up in the live server
 
 ## Authors
 
@@ -40,7 +42,7 @@ run `npm install` to install dependencies
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](https://github.com/olawalecoder/awesomebookses6/issues).
 
 ## Show your support
 Give a ⭐️ if you like this project!
