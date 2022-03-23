@@ -2,7 +2,7 @@ class Book {
   constructor() {
     this.storedBook = localStorage.getItem('books') ? JSON.parse(localStorage.getItem('books')) : [];
   }
- 
+
   addBook = (book) => {
     this.storedBook.push(book);
 
